@@ -11,10 +11,6 @@
  <a href="#autor">Autor</a>
 </p>
 
-<h4 align="center"> 
-	🚧  Em construção...  🚧
-</h4>
-
 <h2 id="demo">🕹️ Demo</h2>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f6fee473-8066-4180-a5b3-d8a104d337c3/deploy-status)](https://app.netlify.com/sites/lambent-kashata-f377e9/deploys)
